@@ -1,8 +1,8 @@
 //
 //  ViewController.h
-//  Screenshot_ObjC
+//  TakeScreenshot_ObjC
 //
-//  Created by mallikarjun on 20/11/19.
+//  Created by mallikarjun on 21/11/19.
 //  Copyright © 2019 Mallikarjun H. All rights reserved.
 //
 
