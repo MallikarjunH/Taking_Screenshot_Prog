@@ -29,7 +29,11 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <navigationItem key="navigationItem" title="Take Screenshot" id="lE8-Jl-uB0">
-                        <barButtonItem key="rightBarButtonItem" image="square.and.arrow.down" catalog="system" id="z0O-hV-mp3"/>
+                        <barButtonItem key="rightBarButtonItem" image="square.and.arrow.down" catalog="system" id="z0O-hV-mp3">
+                            <connections>
+                                <action selector="takeScreenhot:" destination="BYZ-38-t0r" id="4ga-Ge-hUk"/>
+                            </connections>
+                        </barButtonItem>
                     </navigationItem>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

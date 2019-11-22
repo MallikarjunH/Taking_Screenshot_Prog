@@ -71,6 +71,7 @@
 				06C3445023863EFB00DBA149 /* Storybord */,
 				06C3445123863F0300DBA149 /* Resources */,
 				06C3444423863E9400DBA149 /* main.m */,
+				06C3444323863E9400DBA149 /* Info.plist */,
 			);
 			path = TakeScreenshot_ObjC;
 			sourceTree = "<group>";
@@ -130,7 +131,6 @@
 			children = (
 				06C344522386402100DBA149 /* pexels-photo-358457.jpeg */,
 				06C3443E23863E9400DBA149 /* Assets.xcassets */,
-				06C3444323863E9400DBA149 /* Info.plist */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
